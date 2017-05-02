@@ -1,5 +1,4 @@
 <template>
-
 <transition name="move-right">
    <div v-show="showFlag" class="food" ref="food-w">
       <div class="food-content">
@@ -52,7 +51,6 @@
       </div>
   </div>
 </transition>
-
 </template>
 <script type="text/ecmascript-6">
  // const POSITIVE = 0;

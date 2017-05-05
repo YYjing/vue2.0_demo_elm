@@ -19,7 +19,7 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 ## view 
 
-.页面分三个主路由：
+.页面分三个主路由（商品列表、评论列表、商家列表）和三个详情页
 商品列表：
 
 ![image](https://github.com/summer0719/vue2.0_demo_elm/blob/master/screen/goods.png)
